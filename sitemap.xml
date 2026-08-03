@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/</loc>
@@ -8,99 +8,49 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Duke Energy Service States -->
-
   <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/north-carolina</loc>
+    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/about-us.html</loc>
     <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
   </url>
 
   <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/florida</loc>
+    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/privacy-policy.html</loc>
     <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.94</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
   </url>
 
   <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/south-carolina</loc>
+    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/contact-us.html</loc>
     <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.93</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
   </url>
 
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/indiana</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.91</priority>
-  </url>
+  <!-- Service States -->
 
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/ohio</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
-  </url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/north-carolina</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/florida</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.94</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/south-carolina</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.93</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/indiana</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.92</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/ohio</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.91</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/kentucky</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
 
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/kentucky</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.89</priority>
-  </url>
+  <!-- Major Cities -->
 
-  <!-- High Population Service Cities -->
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/charlotte-nc</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.88</priority>
-  </url>
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/raleigh-nc</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.87</priority>
-  </url>
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/greensboro-nc</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.86</priority>
-  </url>
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/durham-nc</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/columbia-sc</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.84</priority>
-  </url>
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/greenville-sc</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.83</priority>
-  </url>
-
-  <url>
-    <loc>https://utilitybillhelp.github.io/dukeenergy-billpay/cincinnati-oh</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.82</priority>
-  </url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/charlotte-nc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.88</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/raleigh-nc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.87</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/durham-nc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.86</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/greensboro-nc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/winston-salem-nc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.84</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/asheville-nc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.83</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/greenville-sc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.82</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/columbia-sc</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.81</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/cincinnati-oh</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/fort-wayne-in</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.79</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/orlando-fl</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url>
+  <url><loc>https://utilitybillhelp.github.io/dukeenergy-billpay/st-petersburg-fl</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.77</priority></url>
 
 </urlset>
